@@ -1,0 +1,22 @@
+.section-contact {
+    background-color: #1abc9c;
+    padding: 100px;
+}
+
+  
+ 
+  .line-one {
+
+    width: 60px;
+    height: 5px;
+    background-color: white;
+    transform: translateX(-28%);
+  }
+  .line-two{
+    width: 60px;
+    height: 5px;
+    background-color: white;
+    transform: translateX(21%);
+}
+  
+  
